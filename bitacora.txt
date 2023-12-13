@@ -1,0 +1,1 @@
+1. ejecutar comando npx create-next-app next-prisma-crud
